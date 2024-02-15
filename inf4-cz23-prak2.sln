@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inf4-cz23-prak2.Android", "inf4-cz23-prak2\inf4-cz23-prak2.Android\inf4-cz23-prak2.Android.csproj", "{692A6539-0BB5-4911-8E1C-E0B0EA2D8E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inf4-cz23-prak2", "inf4-cz23-prak2\inf4-cz23-prak2\inf4-cz23-prak2.csproj", "{6232D469-2CE5-48F4-B082-7102D0D25968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692A6539-0BB5-4911-8E1C-E0B0EA2D8E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692A6539-0BB5-4911-8E1C-E0B0EA2D8E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692A6539-0BB5-4911-8E1C-E0B0EA2D8E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692A6539-0BB5-4911-8E1C-E0B0EA2D8E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6232D469-2CE5-48F4-B082-7102D0D25968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6232D469-2CE5-48F4-B082-7102D0D25968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6232D469-2CE5-48F4-B082-7102D0D25968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6232D469-2CE5-48F4-B082-7102D0D25968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {086724AC-2299-4136-91F0-CEBD3E5F8935}
+	EndGlobalSection
+EndGlobal
